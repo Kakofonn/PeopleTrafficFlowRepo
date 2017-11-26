@@ -1,0 +1,6 @@
+hackjunction\intelligentbuildings\peopletrafficflow\KoneApiConnector.class
+hackjunction\intelligentbuildings\peopletrafficflow\TrafficData.class
+hackjunction\intelligentbuildings\peopletrafficflow\NotificationController.class
+hackjunction\intelligentbuildings\peopletrafficflow\servlets\ConnectorServlet.class
+hackjunction\intelligentbuildings\peopletrafficflow\classes\User.class
+hackjunction\intelligentbuildings\peopletrafficflow\TrafficFlowController.class
